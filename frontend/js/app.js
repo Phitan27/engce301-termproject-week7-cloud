@@ -3,7 +3,7 @@
 // ENGCE301 - Week 6 Docker Version
 // ============================================
 
-const API_BASE = '/api';
+const API_BASE = ' https://engce301-termproject-week7-cloud-production.up.railway.app/api/';
 
 // ============================================
 // API Functions
