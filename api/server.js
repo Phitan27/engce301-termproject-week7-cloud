@@ -1,3 +1,6 @@
+// server.js - ส่วน CORS (เพิ่ม/แก้ไข)
+const cors = require('cors');
+
 // CORS configuration - รองรับทั้ง Local และ Railway
 const corsOptions = {
     origin: function (origin, callback) {
